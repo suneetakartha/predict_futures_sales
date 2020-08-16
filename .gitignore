@@ -1,5 +1,6 @@
 .idea/*
 *.iml
 */__pycache__/*
-.spyproject/*
+.pytest_cache/*
 .vscode/*
+.spyproject/*
